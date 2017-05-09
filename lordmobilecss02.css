@@ -50,7 +50,7 @@ and (max-width : 1000px) {
 	
 	.view-page-top-social-section .social-icons-mobile ul{
 		margin: 0px;
-		padding: 0px;
+		padding: 1px;
 		width: auto;
 	}
 	
