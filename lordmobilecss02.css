@@ -1,0 +1,140 @@
+
+@media only screen 
+and (max-width : 1000px) {
+	
+	.meat-skirt-right .social-icons ul, .view-page-top-social-section ul{
+        overflow: hidden;
+    }
+
+    .view-page-top-social-section{
+        height: auto !important;
+        overflow: hidden !important;
+    }
+	.view-page-wrapper .meat-skirt-right{
+		float: none;
+    	width: auto;
+    	margin-left: 25px;
+	}
+	
+	.view-page-wrapper .meat-skirt-left{
+		float: none;
+    	width: auto;
+    	min-height: auto;
+	}
+	
+	.view-page-wrapper h1{
+		text-align: center;	
+	}
+	
+	.view-page-wrapper h2{
+		text-align: center;	
+	}
+	
+	.view-page-wrapper p{
+		text-align: center;	
+	}
+	
+	.meat-skirt-right .price{
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+	
+	.view-page-top-social-section .standard-share-top{
+		display: none;
+	}
+	
+	.view-page-top-social-section .social-icons-mobile{
+		display: block;
+		text-align: center;
+	}
+	
+	.view-page-top-social-section .social-icons-mobile ul{
+		margin: 0px;
+		padding: 0px;
+		width: auto;
+	}
+	
+	.view-page-top-social-section .social-icons-mobile ul li{
+		display: inline;
+		list-style-type: none;
+		float: none;
+	}
+	
+	.view-page-wrapper .meat{
+		padding-bottom: 10px;
+	}
+	
+	.meat-skirt-right .social{
+		padding-bottom: 0px;
+	}
+	
+	.view-page-wrapper{
+		max-width: 900px;
+    	width: auto;
+	}
+
+	.view-page-body .modal{
+		width: 100%;
+		left: 10%;
+		margin-left: 0px;
+	}
+
+	.view-page-body #myModal-free input[type="text"]{
+		display: block;
+	    margin-bottom: 10px;
+	    width: 94%;
+	}
+
+	.view-page-body #myModal-free a{
+		display: block;
+    	margin-bottom: 20px;
+    	border-radius: 5px;
+	}
+
+	.view-page-body #myModal-coupon input[type="text"]{
+		display: block;
+	    margin-bottom: 10px;
+	    width: 94%;
+	}
+
+	.view-page-body #myModal-coupon a{
+		display: block;
+    	margin-bottom: 20px;
+    	border-radius: 5px;
+	}
+
+	.thank_you_body .thank_you_white, .thank_you_body .pro_welcome_white{
+		width: auto;
+	}
+
+	.thank_you_body  .thank_you_white_header h1, .thank_you_body .pro_welcome_white_header h1{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.modal-body{
+		overflow-y: visible !important;
+	}
+
+	.meat-skirt-left{
+		min-height: auto !important;
+		border-right: none !important;
+	}
+	
+	.view-page-wrapper .meat{
+		padding-bottom: 0px;
+	}
+	
+	.view-page-wrapper .meat .meat-top img{
+		max-width: 100%;
+	}
+
+	.strikethrough-discount-price, .excluding-vat-msg{
+		text-align: center !important;
+	}
+
+	.discount-has-been-applied-message{
+		text-align: center !important;
+	}
+	
+}
